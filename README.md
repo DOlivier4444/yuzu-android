@@ -1,4 +1,4 @@
-backup from the 05 march 2024 of the github repo of yuzu-android
+backup from the 05 march 2024 of the github of yuzu-android
 
 
 <!--
